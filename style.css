@@ -1,0 +1,103 @@
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 190px;
+    color: black;
+    background-color: #9CF99F;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.pp {
+    font-size: 26px;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(#57EC9C , white);
+}
+
+.apple {
+    color: MediumSeaGreen;
+    position: relative;
+    bottom: 45px;
+    text-shadow: 2px 2px 2px #2A9C28;
+}
+
+.popa{
+    position: relative;
+    top: 20px;
+    left: 50px;
+    width: 100px;
+    height: auto;
+}
+
+div {
+    width: 350px;
+    position: relative;
+    left: 250px;
+    top: 75px;
+}
+
+.r {
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+    border: 5px solid #ABED77;
+}
+
+p {
+    font-size: 20px;
+}
+
+.ll {
+    float: right;
+}
+
+.ya {
+    position: relative;
+    left: 600px;
+}
+
+footer {
+    background-image: linear-gradient(white , #57EC9C);
+    height: 150px;
+}
+
+.u {
+    position: relative;
+    left: 100px;
+    font-size: 24px;
+}
+
+.w {
+    font-size: 24px;
+    text-shadow: 2px 2px 2px gray;
+}
+
+.qqq {
+    color: red;
+}
+
+a:hover {
+    background-color: darkred;
+    transition: 2s;
+    color: #57EC9C;
+}
+
+.eee {
+    font-size: 40px;
+    color: crimson;
+}
+
+.pp {
+    font-size: 30px;
+}
